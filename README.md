@@ -1,0 +1,1 @@
+# GO-LANG-float-literal-analyzer
