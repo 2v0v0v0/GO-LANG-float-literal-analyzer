@@ -2,6 +2,8 @@
 
 **This program is written in Java. Take in string or character array value as input. Return true if the value matches the format of a floating point literal in GO, otherwise return false.**
 
+*https://golang.org/ref/spec#Floating-point_literals*
+
     float_lit         = decimal_float_lit | hex_float_lit .
 
     decimal_float_lit = decimal_digits "." [ decimal_digits ] [ decimal_exponent ] |
